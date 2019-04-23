@@ -12783,5 +12783,21 @@
         "manageableState": "unmanaged",
         "type": "SamlSsoConfig",
         "mmState": "clean"
+    },
+    "testcomitcontroller.cls": {
+        "id": "01p1H000007PmLTQA0",
+        "name": "testcomitcontroller",
+        "createdDate": "2019-04-23T19:12:22.000+0000",
+        "createdById": "0051H000008zgehQAA",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051H000008zgehQAA",
+        "lastModifiedDate": "2019-04-23T19:13:50.000+0000",
+        "fullName": "testcomitcontroller",
+        "fileName": "unpackaged/classes/testcomitcontroller.cls",
+        "createdByName": "Hrishikesh Kanabar",
+        "lastModifiedByName": "Hrishikesh Kanabar",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
